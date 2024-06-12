@@ -1,0 +1,18 @@
+.box{
+	margin-bottom: 5px;
+	height: 100px;
+	background-color: red;
+}
+.h_300{
+	height: 300px;
+}
+.container{
+	margin-bottom: 5px;
+}
+.box1{
+	margin-bottom: 5px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: red;
+}
